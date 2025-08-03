@@ -1,7 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
 <h1 align="center">Hi, I'm Hosein 👋</h1>
 <p align="center">
