@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 #### Server & DevOps:
-`Linux` `Docker` `CI/CD` `Virtualizor` `PRTG` `MikroTik` `Cisco`
+`Linux` `Virtualizor` `PRTG` `MikroTik` `Cisco`
 
 #### Backend:
 `Laravel` `PHP` `MySQL` `Node.js` `RESTful APIs`
